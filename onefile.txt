@@ -1,0 +1,2 @@
+ Hi, this is first file i am adding this file so that i can check hhow the add and commit commands work on git
+Thanks you
